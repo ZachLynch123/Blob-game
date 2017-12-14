@@ -1,4 +1,4 @@
-/bin
-/include
-/lib/python3.5
-/pip-selfcheck.json
+bin/
+include/
+lib/python3/
+pip-selfcheck.json/
